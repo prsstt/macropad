@@ -1,0 +1,9 @@
+90mmx60mmx15mm cała obudowa
+8.5mmx6mm - otwór na usb c (xiao rp2040)
+3mm średnicy otwory zewnętrzne (łączeniowe dwie części)
+2mm średnicy otwory wewnętrzne (przy płytce)
+2mm grubość podstawy na płytkę
+3mm średnicy otwory (jakieś niepotrzebne wewnątrz)
+28mmx27 mm wymiary całego ekranu
+2mm średnica otwórów w płytce ekranu
+25mmx13mm wymiar wyświetlacza
