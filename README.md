@@ -1,2 +1,5 @@
 # macropad
  8-keys macropad using circuitpython, xiao rp2040
+![326563029_946939900010366_2509999438023487609_n](https://user-images.githubusercontent.com/98285822/214162874-68bdb5c1-3c1d-4bfc-83c7-f4ac9eb10145.jpg)
+![326829033_2414501388700293_5164040045330576992_n](https://user-images.githubusercontent.com/98285822/214162918-2c2477fd-a984-4a42-b8c4-530eead68f76.jpg)
+![326871079_503592828549524_6451120874979204964_n](https://user-images.githubusercontent.com/98285822/214162944-7b09976b-a655-45bc-88fb-be8ed503dab1.jpg)
